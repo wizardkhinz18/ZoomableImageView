@@ -5,7 +5,7 @@ package com.luckychinatown.museum.widget;
  * Created by :
  * -
  * Jovet Alabastro
- * Android Developer @ DesignBlue Manila Inc.
+ * Android Developer
  * -
  * Date created : 9/3/2015 @ 5:29 PM
  * -
